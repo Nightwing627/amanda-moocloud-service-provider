@@ -1,0 +1,7 @@
+
+# Other paths to ignore
+
+/node_modules/
+/.nuxt/
+yarn.lock
+package-lock.json
